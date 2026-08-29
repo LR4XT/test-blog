@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog</title>
   <id>https://LR4XT.github.io/test-blog/</id>
-  <updated>2026-08-29T07:58:22.412Z</updated>
+  <updated>2026-08-29T08:06:16.423Z</updated>
   <rights>©</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
@@ -13,13 +13,5 @@
         <content type="html"><![CDATA[<p>test</p>
 ]]></content>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://LR4XT.github.io/test-blog/post/test/</id>
-        <link href="https://LR4XT.github.io/test-blog/post/test/">
-        </link>
-        <updated>2026-08-29T12:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>test1</p>
-]]></content>
-    </entry>
+    
 </feed>
