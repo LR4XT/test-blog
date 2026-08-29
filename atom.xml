@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog</title>
-  <id>https://example.com/</id>
+  <id>https://LR4XT.github.io/test-blog/</id>
   <updated>2026-08-29T07:05:57.035Z</updated>
   <rights>©</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://example.com/post/test/</id>
-        <link href="https://example.com/post/test/">
+        <id>https://LR4XT.github.io/test-blog/post/test/</id>
+        <link href="https://LR4XT.github.io/test-blog/post/test/">
         </link>
         <updated>2026-08-29T12:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -15,8 +15,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://example.com/post/test/</id>
-        <link href="https://example.com/post/test/">
+        <id>https://LR4XT.github.io/test-blog/post/test/</id>
+        <link href="https://LR4XT.github.io/test-blog/post/test/">
         </link>
         <updated>2026-08-29T12:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>test1</p>
